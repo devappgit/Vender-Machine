@@ -1,5 +1,5 @@
 # Vender-Machine
-Write a program or library that simulates a vending machine with the following features:<br>
+Write a JAVA program or library that simulates a vending machine with the following features:<br>
 The implementation should track current stock levels of the machine.<br>
 The interface should include methods to restock the machine and to purchase an item.<br>
 When a purchase is made, the machine should dispense the correct change (including the number and denomination of each coin).<br><br>
